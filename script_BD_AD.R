@@ -1,7 +1,4 @@
 ## Autor: Anderson Henrique (UFPE) ###
-###
-
-
 ##Artigo: "O MELHOR REMÉDIO SERIA PREVENIR?
 ##MAPEANDO AS POLÍTICAS DE PREVENÇÃO DE RISCO E DESASTRES NO BRASIL (2012 – 2019)"
 
